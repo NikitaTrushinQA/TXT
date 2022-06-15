@@ -1,0 +1,4 @@
+1.full name:Trushin Nikita Andreevich
+2.age:29
+3.number of pets:0
+4.future desired salary:1000$
