@@ -1,6 +1,6 @@
 Environment: <your environment>
 ID: 1
-Summury: <What? Where? Why?>
+Summary: <What? Where? Why?>
 Project:<name of the project>
 Component:<module,part of the project>
 Steps to reproduce: 1.
@@ -14,7 +14,7 @@ Actual Result: 1. ...
                2. ...
                3. ...
 Severity: <s1,s2,s3,s4,s5>
-Priotity:<p1,p2,p3>
+Priority:<p1,p2,p3>
 Assigned to: <name>
 
 Attachments: <img/video>
